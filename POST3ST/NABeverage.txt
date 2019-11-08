@@ -1,0 +1,7 @@
+Coke        ,2.50
+Diet Coke   ,2.50
+Cherry Coke ,2.50
+Sprite      ,2.50
+Root Beer   ,2.50
+Mellow Yello,2.50
+Milk        ,2.50

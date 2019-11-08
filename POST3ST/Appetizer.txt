@@ -1,0 +1,8 @@
+Camp Sampler,14.99
+Rodeo Nachos,11.99
+Chx Tenders ,8.99
+Chip + Queso,6.99
+Fried Pickle,8.99
+Chik-A-Dilla,10.99
+Onion Rings ,8.99
+Waffle Fries,6.99
